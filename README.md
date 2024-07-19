@@ -2,6 +2,10 @@
 
 ## Project Title: Serverless Cloud-Native Web Deployment with Docker Containerization, AWS ECR, and AWS Fargate.
 
+#### Project Architecture:
+
+![alt text](ECS-Fargate-1.jpg)
+
 #### Project Description:
 
 In this project, I demonstrated my ability to deploy a sample CSS website using Docker, AWS EC2, ECR, and ECS with Fargate. The project involved the following steps:
